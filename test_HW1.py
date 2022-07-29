@@ -23,6 +23,6 @@ def test_HW1():
         "Enter your name: ",
         "\nEnter your annual salary $",
         "\nRetroactive pay due Red Green is $1245.64",
-        "\nRed Green's new annual salary is $35271.28"
+        "\nRed Green's new annual salary is $35271.28",
         "\nNew monthly salary is $2939.27"
         ]
