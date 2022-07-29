@@ -4,7 +4,7 @@
 import os.path
 import sys
 from HW1 import main
-from tud_test import *
+from tud_tests import *
 
 def test_HW1():
 
