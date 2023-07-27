@@ -3,10 +3,10 @@
 # <Your Name>
 
 """
-Inputs, Processes, Outputs (IOP)
+Inputs, Processes, Outputs (IPO)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Input(s):
-Processes:
+Process(es):
 Output(s):
 """
 
